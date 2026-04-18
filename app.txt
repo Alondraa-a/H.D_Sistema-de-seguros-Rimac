@@ -1,1 +1,2 @@
 Sistema de seguros Rimac
+Modulo de reclamos
